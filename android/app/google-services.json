@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206394666942",
+    "project_id": "review-hub-4e698",
+    "storage_bucket": "review-hub-4e698.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206394666942:android:04d38e8c73df226ebed3ef",
+        "android_client_info": {
+          "package_name": "com.example.review_hub_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNTZkI7LDbRi0hrPWZBVzpRm6ZbBnkOzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
